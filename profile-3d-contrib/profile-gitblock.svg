@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+<title id="title">3D contributions are being generated</title>
+<desc id="desc">The chart will appear after the first GitHub Actions run.</desc>
+<rect x="1" y="1" width="998" height="248" rx="16" fill="#F7F9FC" stroke="#D8E1EB"/>
+<path d="M80 188H920 M80 148H920 M80 108H920" stroke="#E1E8F0" stroke-width="2"/>
+<path d="M120 188L170 158L220 188L170 218Z M170 158V116L220 146V188 M170 116L120 146V188" fill="none" stroke="#95A8BA" stroke-width="3" stroke-linejoin="round"/>
+<text x="285" y="126" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#24364A">3D contributions</text>
+<text x="285" y="163" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#60758A">Generated after the first workflow run</text>
+</svg>
